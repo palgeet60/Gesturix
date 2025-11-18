@@ -1,2 +1,2 @@
 # Gesturix
-Real Time Hand Gesture Recognition for muting sound system
+Real Time Hand Gesture Recognition for Audio Muting
